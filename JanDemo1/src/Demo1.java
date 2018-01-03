@@ -6,6 +6,8 @@ public class Demo1 {
 			System.out.println("Welcome to DevOps "+i);
 			System.out.println("Building with Jenkins......"+i);
 		}
+		
+		System.out.println("Thank You....");
 
 	}
 }
